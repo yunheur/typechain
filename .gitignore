@@ -1,1 +1,2 @@
-*.map
+yarn.lock
+node_modules
